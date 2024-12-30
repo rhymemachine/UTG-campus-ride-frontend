@@ -1,6 +1,6 @@
-# new_app
+# UTG_bus_app
 
-A new Flutter project.
+A new Flutter project to ease the flow of busses by tracking.
 
 ## Getting Started
 
